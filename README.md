@@ -54,7 +54,7 @@ O **EPS-Core** é uma ferramenta computacional desenvolvida em **MATLAB** para e
 
 1. **Clone ou baixe o repositório** para uma pasta local:
    ```bash
-   git clone https://github.com/SEU_USUARIO/EPS-Core.git
+   git clone https://github.com/Luciano-Vicnesky/EPS-Core.git
    ```
 2. **Abra o MATLAB** e defina a pasta do projeto como *Current Folder*.
 3. **Execute o script principal** no *Command Window*:
