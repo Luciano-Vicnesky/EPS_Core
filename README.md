@@ -2,7 +2,7 @@
 
 **Versão:** `v.1.0` | **Data de Publicação:** `25-11-2026` | **Plataforma:** MATLAB
 
-O **EPS-Core** é uma ferramenta computacional desenvolvida em **MATLAB** para elaboração, otimização e auditoria de Estudos de Proteção e Seletividade (EPS) em subestações consumidoras de média tensão ($13{,}8\text{ kV}$ e $23{,}1\text{ kV}$). A base de cálculos e critérios técnicos segue os requisitos normativos da **Celesc**, **IEC 60255** e normas **ABNT NBR 6855**, **NBR 6856**, **NBR 7282** e **NBR NM 280**, com arquitetura modular e persistência padronizada para fácil adaptação.
+O **EPS-Core** é uma ferramenta computacional desenvolvida em **MATLAB** para elaboração, otimização e auditoria de Estudos de Proteção e Seletividade (EPS) em subestações consumidoras de média tensão ($13{,}8\text{ kV}$ e $23{,}1\text{ kV}$). A base de cálculos e critérios técnicos segue os requisitos normativos da **Celesc**, **IEC 60255** e normas **ABNT NBR 6855**, **NBR 6856** e **NBR 7282**, com arquitetura modular e persistência padronizada para fácil adaptação.
 
 ---
 
