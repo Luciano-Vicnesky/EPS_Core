@@ -84,6 +84,10 @@ O **EPS-Core** é uma ferramenta computacional desenvolvida em **MATLAB** para e
 
 ---
 
-## Aviso de Responsabilidade Técnica
+## Aviso de Responsabilidade e Aplicação da Ferramenta
 
-O **EPS-Core** é uma ferramenta de apoio computacional destinada a estudos de engenharia elétrica. Todos os resultados, curvas de seletividade, relatórios e especificações de equipamentos (relés, TCs, TPs e TPA) devem ser rigorosamente revisados e validados por Engenheiro Eletricista legalmente habilitado (registro no CREA e respectiva ART) antes da submissão à concessionária, parametrização em campo ou qualquer outro tipo de uso.
+O **EPS-Core** é uma ferramenta de apoio computacional destinada a estudos de proteção de engenharia elétrica para âmbito educacional. Todos os resultados, curvas de seletividade, relatórios e especificações de equipamentos (relés, TCs, TPs e TPA) devem ser rigorosamente revisados e validados durante o desenvolvimento dos estudos possíveis com o auxílio da ferramenta. 
+
+O criador não se responsabiliza por alterações no código disponibilizado. 
+
+Cópias e reproduções totais ou parciais do conteúdo da ferramenta, inclusive as de intuito comercial e educacionais são expressamente proibidas sem prévia autorização por escrito do criador.
